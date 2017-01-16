@@ -1,0 +1,19 @@
+{
+  "name": "sdkjs",
+  "version": "1.0.0",
+  "main": "index.html",
+	"scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Yevgeniy Kanyashin",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ykanyashin/sdkjs.git"
+  },  
+  "bugs": {
+    "url": "https://github.com/ykanyashin/sdkjs/issues"
+  },
+  "homepage": "https://github.com/ykanyashin/sdkjs"
+}
